@@ -1,5 +1,7 @@
 # SmartGamer
 
+[Article on this project](https://bowenfeng.tech/projects/ai/computer%20vision/2022/01/07/ai-gamer.html)
+
 A Python framework that utilizes neural networks and computer vision to
 train computers to autonomously play video games. Built using FastAI 
 and OpenCV.
